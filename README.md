@@ -92,4 +92,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Explain the effects of war-vague
 Explain the effects of world war 1 and 2 on the economy and the political world.
 It is more specific since it has narrowed down on the specific wars and the exacts aspects that effects the user wants to be noted.
-narroe
+
